@@ -1,0 +1,8 @@
+[package]
+name = "cpu_coverage"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+iced-x86 = "1.21.0"
+indicatif = "0.17.8"
